@@ -1,0 +1,6 @@
+{
+  "name": "Nexora Care",
+  "description": "Premium Workforce Management & Rota System for Care Homes and Staffing Agencies. Built with CQC compliance, geofenced EVV check-in, and DBS tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
